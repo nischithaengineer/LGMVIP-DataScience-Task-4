@@ -8,10 +8,10 @@ Understanding the geography and temporal patterns of terrorism is crucial for po
 
 In this project, we will:
 
-1.Load and preprocess the Terrorism Dataset, which contains valuable information about terrorist incidents worldwide.
-2.Perform data cleaning and transformation to prepare the dataset for analysis.
-3.Conduct an in-depth exploration of the data, including visualizations and statistical summaries.
-4.Identify hot zones and regions with a high incidence of terrorist activities.
+1. Load and preprocess the Terrorism Dataset, which contains valuable information about terrorist incidents worldwide.
+2. Perform data cleaning and transformation to prepare the dataset for analysis.
+3. Conduct an in-depth exploration of the data, including visualizations and statistical summaries.
+4. Identify hot zones and regions with a high incidence of terrorist activities.
 
 Prerequisites
 To run this project, you will need the following:
